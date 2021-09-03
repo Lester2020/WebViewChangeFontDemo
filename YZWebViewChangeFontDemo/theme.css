@@ -1,0 +1,11 @@
+
+body{
+    background-color: #f2f2f2;
+}
+
+#content{
+    margin-top: 10px;
+    text-align: center;
+    color: red;
+    font-size: 10px;
+}
